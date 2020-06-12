@@ -1,0 +1,16 @@
+K6C
+├── @babel/core@7.10.2
+├── @babel/runtime@7.10.2
+├── @react-native-community/eslint-config@2.0.0
+├── babel-jest@26.0.1
+├── eslint@7.2.0
+├── jest@26.0.1
+├── metro-react-native-babel-preset@0.59.0
+├── UNMET PEER DEPENDENCY react@16.13.1
+├── react-native@0.62.2
+└── react-test-renderer@16.13.1
+
+npm ERR! peer dep missing: react@16.11.0, required by react-native@0.62.2
+npm ERR! peer dep missing: eslint@^3.17.0 || ^4 || ^5 || ^6, required by eslint-plugin-react-native@3.8.1
+npm ERR! peer dep missing: typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta, required by tsutils@3.17.1
+npm ERR! peer dep missing: typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta, required by tsutils@3.17.1
